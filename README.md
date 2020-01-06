@@ -53,5 +53,5 @@ Existem 3 opções de tela pro usuário clicar.
 
 ##### Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo (md aqui) para obter detalhes
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [License](https://github.com/mecnosh/Agenda-de-Eventos/blob/master/LICENSE) para obter detalhes
 
