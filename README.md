@@ -20,17 +20,19 @@ Existem 3 opções de tela pro usuário clicar.
 
 **Tela "Home"->** Quando efetuar o login, entra na tela de início do aplicativo, onde se tem um ArrayList, com todos os eventos criados que estão cadastrados no Firebase(Realtime Database).
 
-![home2](https://user-images.githubusercontent.com/54339869/71791130-907ee000-3012-11ea-9575-bd81b0bb881c.png)
+![ScreenHome](https://user-images.githubusercontent.com/54339869/71791211-e5baf180-3012-11ea-9acb-461a9b5701fb.png)
+
 
 
 **Tela "Add"->** Podendo adicionar um evento, cadastrando em tempo real no banco de dados. Mas só pode adicionar o evento se preencher todos os dados(Foi realizado uma verificação).  
 
-![ADD EVENT](https://user-images.githubusercontent.com/54339869/71788384-70462580-3000-11ea-8726-d6ce1fa09403.jpeg)
+![ScreenAdd](https://user-images.githubusercontent.com/54339869/71791254-169b2680-3013-11ea-9819-a2bf1a989463.png)
 
 
 **Tela "Account" ->** Aparece o e-mail do usuário que está "logado" ou "conectado". E também a opção de "Logoff", que é basicamente sair da conta atual e voltar para tela de login.
 
-![ACCOUNT](https://user-images.githubusercontent.com/54339869/71788389-776d3380-3000-11ea-8b41-345f128c3d87.jpeg)
+![ScreenAccount](https://user-images.githubusercontent.com/54339869/71791270-316d9b00-3013-11ea-9d72-31c33fa39c84.png)
+
 
 
 ### Feito com
