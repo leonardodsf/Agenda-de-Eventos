@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547651499219",
+    "firebase_url": "https://eventos-105bd.firebaseio.com",
+    "project_id": "eventos-105bd",
+    "storage_bucket": "eventos-105bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547651499219:android:783d9f25b3c0f4c4661026",
+        "android_client_info": {
+          "package_name": "com.flores.agendadeeventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547651499219-msepvrj0im7l4h81t5sq5uvclkmp73a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flores.agendadeeventos",
+            "certificate_hash": "78a87b04725a211ae0d0bcca3ab17c82273bc681"
+          }
+        },
+        {
+          "client_id": "547651499219-5fj4p6rjd58kjujovgfjhtt5pf0cl60b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4x950rIw8mxJVhGDH9WAJwAvWRnf2Dy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547651499219-5fj4p6rjd58kjujovgfjhtt5pf0cl60b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
