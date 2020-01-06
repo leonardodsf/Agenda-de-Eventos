@@ -1,6 +1,6 @@
 # Aplicativo Agenda de Eventos
 
-Aplicativo feito para agendamentos de eventos. Onde pode-se criar um evento profissional, workshops, eventos locais.
+Aplicativo feito para agendamentos de eventos. Onde pode-se criar um evento profissional, workshops, eventos locais entre outros.
 
 ## Desenvolvimento
 
