@@ -20,7 +20,7 @@ Existem 3 opções de tela pro usuário clicar.
 
 **Tela "Home"->** Quando efetuar o login, entra na tela de início do aplicativo, onde se tem um ArrayList, com todos os eventos criados que estão cadastrados no Firebase(Realtime Database).
 
-![HOME](https://user-images.githubusercontent.com/54339869/71788382-64f2fa00-3000-11ea-977a-6a6ead5d3efe.jpeg)
+![home2](https://user-images.githubusercontent.com/54339869/71791130-907ee000-3012-11ea-9575-bd81b0bb881c.png)
 
 
 **Tela "Add"->** Podendo adicionar um evento, cadastrando em tempo real no banco de dados. Mas só pode adicionar o evento se preencher todos os dados(Foi realizado uma verificação).  
